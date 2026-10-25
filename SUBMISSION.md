@@ -84,7 +84,7 @@ Together, we would add tests for these failure cases and agree on a few checks f
 
 Assuming these severity definitions, declare P1 immediately; escalate to P0 if affected accounts grow rapidly, ongoing loss is confirmed, or containment fails.
 
-**Coordinate:** I act as incident manager; S. leads technical investigation with another engineer. Bring T.’s backup into the investigation. If pipeline expertise is essential, make one availability check with T., without making response depend on interrupting his leave.
+**Coordinate:** I act as incident manager; S. leads technical investigation with another engineer. Bring another available CRM/Data engineer into the investigation. If pipeline expertise is essential, make one availability check with T., without making response depend on interrupting his leave.
 
 Maintain three communication channels:
 
